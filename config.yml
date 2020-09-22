@@ -138,9 +138,13 @@ params:
       category: Production
     - name: MLV Portal
       category: Production
+    - name: MLV Voucher
+      category: Production
     - name: MLV TEST API
       category: Testing
     - name: MLV TEST Portal
+      category: Testing
+    - name: MLV TEST Voucher
       category: Testing
     - name: WWW
       category: Uncategorized
