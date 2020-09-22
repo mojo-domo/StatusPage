@@ -231,8 +231,8 @@ params:
   #    name: Name
   #    link: https://example.com
   customTabs:
-  - name: Monitoring
-   link: https://stats.uptimerobot.com/BQrZoSV0GB
+  - name: MLV API
+    link: https://stats.uptimerobot.com/BQrZoSV0GB
    
   # Disable complex server-side
   # calculations that may impact
