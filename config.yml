@@ -90,7 +90,7 @@ defaultContentLanguage: en
 # localhost should automatically work.
 #
 # Example: https://status.example.com/
-baseURL: https://cstate.mnts.lt
+baseURL: https://quizzical-pare-c5e4e0.netlify.app/
 
 ############################################################
 # +------------------------------------------------------+ #
@@ -142,6 +142,8 @@ params:
       category: Testing
     - name: MLV Portal
       category: Testing
+    - name: WWW
+      category: Uncategorized
 
   # What date format to use?
   #
