@@ -232,7 +232,7 @@ params:
   #    link: https://example.com
   customTabs:
   - name: Monitoring
-    link: https://stats.uptimerobot.com/BQrZoSV0GB
+    link: https://statusmon.mojo-domo.com/BQrZoSV0GB
    
   # Disable complex server-side
   # calculations that may impact
