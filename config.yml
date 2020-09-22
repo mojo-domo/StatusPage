@@ -123,7 +123,6 @@ params:
   categories:
     - name: Production
       description: Production Environment
-      closed: true
     - name: Testing
       description: Testing Environment
     - name: Uncategorized
@@ -143,12 +142,6 @@ params:
       category: Testing
     - name: MLV Portal
       category: Testing
-    - name: API
-      description: The guts of the application.
-      category: Uncategorized
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
-      category: Uncategorized
 
   # What date format to use?
   #
@@ -197,7 +190,7 @@ params:
   #
   # Default: false
   # BOOLEAN; `true`, `false`
-  useLogo: true
+  useLogo: false
 
   # Where is the logo located, if one is
   # present at all?
