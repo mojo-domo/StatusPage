@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Eggsample Status
+title: Mojodomo Platform Status
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -121,10 +121,11 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
-      description: The main servers are located here.
+    - name: Production
+      description: Production Environment
       closed: true
-    - name: East Coast      
+    - name: Testing
+      description: Testing Environment
     - name: Uncategorized
       untitled: true
 
@@ -134,10 +135,14 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: East Coast
+    - name: MLV API
+      category: Production
+    - name: MLV Portal
+      category: Production
+    - name: MLV API
+      category: Testing
+    - name: MLV Portal
+      category: Testing
     - name: API
       description: The guts of the application.
       category: Uncategorized
