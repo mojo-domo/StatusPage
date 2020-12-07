@@ -142,7 +142,7 @@ params:
       category: Production
     - name: Giftcard API
       category: Production
-    - name: Giftcard Portal
+    - name: Giftcard Web
       category: Production
     - name: MLV TEST API
       category: Testing
@@ -152,7 +152,7 @@ params:
       category: Testing
     - name: Giftcard TEST API
       category: Testing
-    - name: Giftcard TEST Portal
+    - name: Giftcard TEST Web
       category: Testing
     - name: WWW
       category: Uncategorized
