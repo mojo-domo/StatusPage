@@ -123,8 +123,6 @@ params:
   categories:
     - name: Production
       description: Production Environment
-    - name: Testing
-      description: Testing Environment
     - name: Uncategorized
       untitled: true
 
@@ -136,24 +134,14 @@ params:
   systems:
     - name: MLV API
       category: Production
-    - name: MLV Portal
+    - name: MLV Web Portal
       category: Production
     - name: MLV Voucher
       category: Production
     - name: Giftcard API
       category: Production
-    - name: Giftcard Web
+    - name: Giftcard Web Portal
       category: Production
-    - name: MLV TEST API
-      category: Testing
-    - name: MLV TEST Portal
-      category: Testing
-    - name: MLV TEST Voucher
-      category: Testing
-    - name: Giftcard TEST API
-      category: Testing
-    - name: Giftcard TEST Web
-      category: Testing
     - name: WWW
       category: Uncategorized
 
