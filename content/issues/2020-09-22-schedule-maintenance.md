@@ -11,4 +11,5 @@ affected:
 section: issue
 ---
 
-There may be disruptions in the rollout.
+Maintenance Task for Database to increase the stability and scalability for system. 
+During this time, customers may experience latency and/or timeouts for system enquiry.
