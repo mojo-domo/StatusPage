@@ -7,7 +7,7 @@ resolvedWhen: 2020-09-22 02:00:00
 severity: notice
 affected:
   - MLV API
-  - MLV Portal
+  - MLV Web Portal
 section: issue
 ---
 
